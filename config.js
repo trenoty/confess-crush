@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "For you, My Love💗💖",
-    introTitle: 'Hi love HAHAHA',
+    introTitle: 'Hello my beautiful, gorgeous, and cutie baby HAHAHA',
     introDesc: 'I just wanted you to know that i love you very very much more than I can ever express in my whole life.,
     btnIntro: 'mwuahhh😙😙',
     title: 'This is quite sudden but would you want to be my girlfriend?🥰',
